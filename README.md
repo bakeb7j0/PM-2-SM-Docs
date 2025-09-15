@@ -66,7 +66,7 @@ Scrum is a lightweight **framework for complex work**. It’s iterative, adaptiv
 
 💡 *PMs control. SMs enable.* PMs say, “Do this.” SMs say, “What’s blocking you?”
 
-![Who actually says PM](https://preview.redd.it/who-actually-says-pm-v0-gpeqmlt0mrs81.jpg?width=640&crop=smart&auto=webp&s=48f3f30fbd4942ee3f6bb43d39ef736f41737adf)
+![Who actually says PM](https://i.imgflip.com/a66zt0.jpg)
 
 ---
 
